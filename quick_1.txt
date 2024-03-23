@@ -1,0 +1,1000 @@
+A Dijiang Basketball 24.0 180.0 80.0
+A Lamusi Judo 23.0 170.0 60.0
+A. Abdul Razzak Athletics nan 178.0 70.0
+A. Abdul Razzak Athletics nan 178.0 70.0
+Abdalla Abdelgadir El-Sheikh Athletics 21.0 170.0 58.0
+Abdel Fattah Abou-Shanab Rowing 24.0 nan nan
+Abdel Fattah Abou-Shanab Rowing 28.0 nan nan
+Abdel Khlik Abou El-Yazi Hockey 26.0 nan nan
+Abdel Latif Abdel Latif Wrestling 28.0 172.0 68.0
+Abdel Sattar Abdel Hadj Rowing nan nan nan
+Abdel Wahab Abdullah Salih Boxing nan 190.0 75.0
+Abdel Wahab Abdullah Salih Boxing nan 190.0 75.0
+Abdelgani Hassan Abdel Fattah Athletics 31.0 nan nan
+Abdelhak Aatakni Boxing 24.0 nan 64.0
+Abdelhalim Muhammad Abou Volleyball 27.0 210.0 88.0
+Abdihakim "Abdi" Abdirahman Athletics 23.0 178.0 61.0
+Abdihakim "Abdi" Abdirahman Athletics 27.0 178.0 61.0
+Abdihakim "Abdi" Abdirahman Athletics 31.0 178.0 61.0
+Abdihakim "Abdi" Abdirahman Athletics 35.0 178.0 61.0
+Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem Athletics 23.0 169.0 60.0
+Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem Athletics 23.0 169.0 60.0
+Abdul Haji Abdul Latheef Athletics 17.0 168.0 54.0
+Abdul Latif Al-Sayed Abbas Youssef Hashem Athletics 23.0 176.0 64.0
+Abdul Latif Al-Sayed Abbas Youssef Hashem Athletics 23.0 176.0 64.0
+Abdul Latif Al-Sayed Abbas Youssef Hashem Athletics 27.0 176.0 64.0
+Abdul Razzak Aboobakur Athletics 25.0 168.0 59.0
+Abdullah Abdulrahman Zeyab Swimming 16.0 177.0 nan
+Abdulqdir Abdullayev Boxing 28.0 188.0 91.0
+Abel Carlos da Silva Braga Football 19.0 190.0 73.0
+Abelardo Fernndez Antua Football 22.0 nan nan
+Abir Abdulrahman Khalil Mahmoud Khalil Weightlifting 16.0 162.0 72.0
+Abir Abdulrahman Khalil Mahmoud Khalil Weightlifting 20.0 162.0 72.0
+Abouelfetoh Abdelrazek Handball 21.0 nan nan
+Abubakar Abbas Abbas Athletics 20.0 175.0 66.0
+Abubakar Sadiq Abdullahi Tennis 28.0 nan nan
+Addis Abebe Athletics 21.0 160.0 50.0
+Addis Abebe Athletics 21.0 160.0 50.0
+Adeola Aboyade-Cole Athletics 22.0 193.0 78.0
+Adeyemi Abayomi Boxing 25.0 170.0 51.0
+Adlan Aliyevich Abdurashidov Boxing 26.0 172.0 60.0
+Adolf Gaston Abel Art Competitions 45.0 nan nan
+Adolf Gaston Abel Art Competitions 45.0 nan nan
+Agnes Erika Aanonsen (-Eyde) Luge 17.0 169.0 65.0
+Agnese boltia Alpine Skiing 17.0 166.0 60.0
+Agnese boltia Alpine Skiing 17.0 166.0 60.0
+Agnese boltia Alpine Skiing 17.0 166.0 60.0
+Agostino Abbagnale Rowing 22.0 188.0 96.0
+Agostino Abbagnale Rowing 29.0 188.0 96.0
+Agostino Abbagnale Rowing 34.0 188.0 96.0
+Ahmad Hassan Abdullah Athletics 27.0 164.0 55.0
+Ahmad Shah Abouwi Hockey nan nan nan
+Ahmed Abdel Naeim Volleyball 23.0 197.0 87.0
+Ahmed Abdel Naeim Volleyball 31.0 197.0 87.0
+Ahmed Abdelaal Volleyball 27.0 188.0 89.0
+Ahmed Abdelrahman Judo 20.0 165.0 60.0
+Ahmed Abdo Mustafa Football nan nan nan
+Ahmed Abdulkareem Ahmed Boxing 20.0 nan nan
+Ahmed Ali Abdel Samad Boxing 27.0 195.0 95.0
+Ahmed El-Sayed Abdel Hamid Mobarak Basketball 25.0 189.0 85.0
+Ahmed Farid Abou-Shadi Fencing 38.0 nan nan
+Ahmed Farid Abou-Shadi Fencing 38.0 nan nan
+Ahmed Farid Abou-Shadi Fencing 42.0 nan nan
+Ahmed Farid Abou-Shadi Fencing 42.0 nan nan
+Ahmed Ghanim Abdullah Swimming 20.0 184.0 79.0
+Ahmed Ghmin Aboud Boxing 22.0 170.0 51.0
+Alaa El-Din Abdoun Basketball 23.0 188.0 78.0
+Alaaeldin Ahmad El-Sayyid Abouelkassem Fencing 21.0 188.0 87.0
+Alaaeldin Ahmad El-Sayyid Abouelkassem Fencing 21.0 188.0 87.0
+Alaaeldin Ahmad El-Sayyid Abouelkassem Fencing 25.0 188.0 87.0
+Alaaeldin Ahmad El-Sayyid Abouelkassem Fencing 25.0 188.0 87.0
+Alejandro Abascal Garca Sailing 24.0 181.0 82.0
+Alejandro Abascal Garca Sailing 28.0 181.0 82.0
+Alejandro Abascal Garca Sailing 32.0 181.0 82.0
+Aleksey Aleksandrovich Abalmasov Canoeing 24.0 180.0 83.0
+Aleksey Aleksandrovich Abalmasov Canoeing 28.0 180.0 83.0
+Alen Abramovi Cross Country Skiing 29.0 180.0 72.0
+Alen Abramovi Cross Country Skiing 29.0 180.0 72.0
+Alessandro Abbio Basketball 29.0 195.0 85.0
+Alexander "Alex" Abraham (Steglitz) Athletics 25.0 186.0 84.0
+Alexandre Abeid Volleyball 22.0 194.0 92.0
+Alexandre Abeid Volleyball 26.0 194.0 92.0
+Alf Lied Aanning Gymnastics 24.0 nan nan
+Alfonso Abelln Lpez Athletics 37.0 174.0 63.0
+Ali Abdalla Afringi Athletics 25.0 163.0 57.0
+Ali Abdel Radi Rowing 24.0 nan nan
+Ali Abdel Sami Rowing 28.0 nan nan
+Ali Abdo Wrestling 19.0 169.0 74.0
+Ali Abdo Wrestling 23.0 169.0 74.0
+Ali Abdo Wrestling 27.0 169.0 74.0
+Ali Mohamed Badawi Abdel Fattah Badawi Football 19.0 nan nan
+Aliyah Abrams Athletics 19.0 163.0 53.0
+Amer Abdulrahman Abdallah Hussain Al-Hammadi Football 23.0 168.0 68.0
+Amin Abdel Rahman Water Polo 18.0 nan nan
+Amin Abdel Rahman Water Polo 22.0 nan nan
+Amir Abdel Meguid Basketball 23.0 178.0 67.0
+Amir Abdel Meguid Basketball 27.0 178.0 67.0
+Amir Abrashi Football 22.0 172.0 70.0
+Andreea Aanei Weightlifting 22.0 170.0 125.0
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrei Abraham Gymnastics 19.0 nan nan
+Andrey Khakimovich Abduvaliyev Athletics 26.0 190.0 125.0
+Andrey Khakimovich Abduvaliyev Athletics 34.0 190.0 125.0
+Andrey Vasilyevich Abramov Boxing 24.0 180.0 100.0
+Andrey Viktorovich Abramov Archery 24.0 176.0 70.0
+Andrey Viktorovich Abramov Archery 24.0 176.0 70.0
+Angelik Abebame Handball nan nan nan
+Ann Kristin Aarnes Football 23.0 182.0 64.0
+Anouar Abdul Kader Football 27.0 nan nan
+Antnio da Cunha Meneses Martins Abrantes Athletics 20.0 176.0 68.0
+Antnio da Cunha Meneses Martins Abrantes Athletics 20.0 176.0 68.0
+Antnio da Cunha Meneses Martins Abrantes Athletics 24.0 176.0 68.0
+Antnio da Cunha Meneses Martins Abrantes Athletics 28.0 176.0 68.0
+Antoine Abang Boxing 27.0 166.0 75.0
+Antonio Abadia Beci Athletics 26.0 170.0 65.0
+Antti Sami Aalto Ice Hockey 26.0 186.0 96.0
+Aqarab Abbas Athletics 22.0 190.0 88.0
+Aquil Hashim Abdullah (Shumate-) Rowing 31.0 187.0 83.0
+Ara Abrahamian Wrestling 25.0 191.0 84.0
+Ara Abrahamian Wrestling 29.0 191.0 84.0
+Ara Abrahamian Wrestling 33.0 191.0 84.0
+Arif Yadulla Abdullayev Wrestling 27.0 164.0 60.0
+Arif Yadulla Abdullayev Wrestling 32.0 164.0 60.0
+Arnaldo Joaquim Castro Abrantes Athletics 26.0 174.0 68.0
+Arnaldo Lus Isaas Abrantes Athletics 21.0 183.0 72.0
+Arnaldo Lus Isaas Abrantes Athletics 25.0 183.0 72.0
+Arthur Abele Athletics 22.0 184.0 85.0
+Arthur Abele Athletics 30.0 184.0 85.0
+Arvi Aavik Wrestling 22.0 185.0 106.0
+Arvi Aavik Wrestling 26.0 185.0 106.0
+Arvid berg Athletics 26.0 nan nan
+Arvo Ossian Aaltonen Swimming 22.0 nan nan
+Arvo Ossian Aaltonen Swimming 22.0 nan nan
+Arvo Ossian Aaltonen Swimming 30.0 nan nan
+Arvo Ossian Aaltonen Swimming 30.0 nan nan
+Arvo Ossian Aaltonen Swimming 34.0 nan nan
+Ashraf Abou El-Hassan Volleyball 25.0 186.0 86.0
+Ashraf Abou El-Hassan Volleyball 33.0 186.0 86.0
+Ashraf Abou El-Hassan Volleyball 41.0 186.0 86.0
+Atallah Abdullah Weightlifting 32.0 nan 88.0
+Attila brahm Canoeing 21.0 192.0 88.0
+Attila brahm Canoeing 21.0 192.0 88.0
+Attila brahm Canoeing 25.0 192.0 88.0
+Awad Abdel Nabi Awad Basketball 19.0 198.0 80.0
+Awad Abdel Nabi Awad Basketball 23.0 198.0 80.0
+Aybek Abdymomunov Boxing 18.0 162.0 54.0
+Ayoub Abdellaoui Football 23.0 184.0 68.0
+Aziz Abbas Weightlifting 21.0 169.0 67.0
+Aziza Abdelfattah Synchronized Swimming 17.0 159.0 51.0
+Bachir Hani Abou Assi Wrestling 24.0 175.0 74.0
+Bashir Abdi Athletics 27.0 176.0 56.0
+Bashir Abdi Athletics 27.0 176.0 56.0
+Bashir Abdullah Abdul Aziz Football 22.0 180.0 73.0
+Bassim Abbas Kati Al-Ogaili Football 22.0 175.0 80.0
+Bekzod Makhamadzhonovich Abdurakhmonov Wrestling 26.0 172.0 74.0
+Ben Ahmed Abdelkrim Athletics 20.0 nan nan
+Benaissa Abed Boxing 23.0 170.0 51.0
+Benik Abramyan Athletics 31.0 186.0 115.0
+Berik Abdrakhmanov Boxing 30.0 165.0 60.0
+Bernhard Abraham Gymnastics nan nan nan
+Biruk Abebe Cycling 22.0 173.0 62.0
+Biruk Abebe Cycling 22.0 173.0 62.0
+Bjrn Olof Conny berg Freestyle Skiing 23.0 181.0 76.0
+Bode Abiodun Table Tennis 35.0 170.0 68.0
+Borislav Abadzhiev Boxing 24.0 176.0 66.0
+Brahim Daoud Abdoulaye Athletics 25.0 nan 71.0
+Brooke Abel Synchronized Swimming 20.0 163.0 52.0
+Bukola Dammy Abogunloko Athletics 17.0 170.0 53.0
+Camille Anne Franoise Abily Football 27.0 168.0 60.0
+Camille Anne Franoise Abily Football 31.0 168.0 60.0
+Carlos Abarca Gonzlez Boxing 23.0 nan nan
+Carlos Alberto Abaunza Athletics 16.0 180.0 70.0
+Carlos Arturo Abarza Chavez Shooting 22.0 nan nan
+Carlos Rodolfo Abaunza Balladares Athletics 18.0 168.0 60.0
+Carmine Abbagnale Rowing 22.0 182.0 90.0
+Carmine Abbagnale Rowing 26.0 182.0 90.0
+Carmine Abbagnale Rowing 30.0 182.0 90.0
+Carmine Abbagnale Rowing 34.0 182.0 90.0
+Catherine "Kate" Abilla Awino Rugby Sevens 27.0 162.0 56.0
+Ceyhun Abiyev Boxing 29.0 163.0 48.0
+Chairil Anwar Abdul Aziz Hockey 24.0 163.0 61.0
+Chairil Anwar Abdul Aziz Hockey 28.0 163.0 61.0
+Cheryl Abplanalp Handball 24.0 174.0 68.0
+Christian Abbiati Football 23.0 192.0 90.0
+Christine Jacoba Aaftink Speed Skating 21.0 185.0 82.0
+Christine Jacoba Aaftink Speed Skating 21.0 185.0 82.0
+Christine Jacoba Aaftink Speed Skating 25.0 185.0 82.0
+Christine Jacoba Aaftink Speed Skating 25.0 185.0 82.0
+Christine Jacoba Aaftink Speed Skating 27.0 185.0 82.0
+Christine Jacoba Aaftink Speed Skating 27.0 185.0 82.0
+Clare Abbott Equestrianism 30.0 167.0 58.0
+Clare Abbott Equestrianism 30.0 167.0 58.0
+Clarence John Abel Ice Hockey 23.0 185.0 102.0
+Clyde Abrahams Hockey 29.0 178.0 68.0
+Colin Winston Abrams Cycling 32.0 180.0 70.0
+Cornelia "Cor" Aalten (-Strannood) Athletics 18.0 168.0 nan
+Cornelia "Cor" Aalten (-Strannood) Athletics 18.0 168.0 nan
+Dagfinn Sverre Aarskog Bobsleigh 24.0 190.0 98.0
+Dana Abdul Razak (Hussain-) Athletics 22.0 163.0 56.0
+Dana Abdul Razak (Hussain-) Athletics 26.0 163.0 56.0
+Dany Abounaoum Alpine Skiing 22.0 nan nan
+Dany Abounaoum Alpine Skiing 22.0 nan nan
+David "Dave" Abbott Athletics 26.0 183.0 75.0
+David Abibssira Shooting 21.0 179.0 63.0
+David Abrard Swimming 19.0 187.0 81.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 19.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 24.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 24.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 24.0 161.0 62.0
+Denis Mikhaylovich Ablyazin Gymnastics 24.0 161.0 62.0
+Desmond "Des" Abbott Hockey 21.0 184.0 87.0
+Diana Monteiro Abla Water Polo 21.0 175.0 75.0
+Dmitry Vladimirovich Abramovich Bobsleigh 27.0 182.0 96.0
+Dmitry Vladimirovich Abramovich Bobsleigh 27.0 182.0 96.0
+Donald Robert Abrahamson, Jr. Weightlifting 26.0 162.0 67.0
+Dorri Abdel Kader Said Swimming 21.0 nan nan
+Dorri Abdel Kader Said Swimming 21.0 nan nan
+Dorri Abdel Kader Said Swimming 25.0 nan nan
+Dorri Abdel Kader Said Water Polo 21.0 nan nan
+Dorri Abdel Kader Said Water Polo 25.0 nan nan
+Dorri Abdel Kader Said Water Polo 33.0 nan nan
+Dzhamolidin Mirgarifanovich Abduzhaparov Cycling 24.0 174.0 72.0
+Dzhamolidin Mirgarifanovich Abduzhaparov Cycling 32.0 174.0 72.0
+Edgar Allen "Ed" Ablowich Athletics 19.0 182.0 68.0
+Edgar Lindenau Aabye Tug-Of-War 34.0 nan nan
+Edme Abetel (-Barr) Alpine Skiing 29.0 nan nan
+Edwige Marie Abna Fouda Athletics 23.0 173.0 61.0
+Egil Sten Abel Sailing 20.0 nan nan
+Einar Ferdinand "Einari" Aalto Swimming 26.0 nan nan
+Ek'aterina Abramia Rhythmic Gymnastics 16.0 167.0 43.0
+El-Hachemi Abdenouz Athletics 24.0 170.0 63.0
+El-Sayed Aboumedan Judo 26.0 178.0 81.0
+Elvan Abeylegesse Athletics 21.0 159.0 40.0
+Elvan Abeylegesse Athletics 21.0 159.0 40.0
+Elvan Abeylegesse Athletics 25.0 159.0 40.0
+Elvan Abeylegesse Athletics 25.0 159.0 40.0
+Emanuele Abate Athletics 27.0 190.0 80.0
+Endurance Abinuwa Athletics 24.0 159.0 54.0
+Enrique Abaroa Martnez Tennis 26.0 183.0 75.0
+Enver Nazymovych Ablaiev Freestyle Skiing 22.0 169.0 68.0
+Enver Nazymovych Ablaiev Freestyle Skiing 26.0 169.0 68.0
+Enver Nazymovych Ablaiev Freestyle Skiing 30.0 169.0 68.0
+Erik Adolf Efraim Abrahamsson Athletics 22.0 172.0 61.0
+Erling Rudolf Aastad Athletics 22.0 177.0 74.0
+Erling Rudolf Aastad Athletics 22.0 177.0 74.0
+Erling Rudolf Aastad Athletics 26.0 177.0 74.0
+Erling Rudolf Aastad Athletics 30.0 177.0 74.0
+Essa Abbas Faleh Hashem Athletics 20.0 160.0 65.0
+Essameldin Abou El-Nein Basketball 29.0 205.0 102.0
+Evald rma (rman-) Athletics 24.0 174.0 70.0
+Fahmi Ahmed Abdul Wahab Al-Tahri Athletics 23.0 nan nan
+Fathi Ali Abdel Rahman Boxing 20.0 nan nan
+Fathi Khalifa Aboud Athletics 23.0 175.0 75.0
+Fatima Abdul Majeed Hameed Al-Kirashi Swimming 14.0 nan nan
+Fawzi Abdussalam Cycling nan 179.0 76.0
+Fawziya Abdoulkarim Volleyball 27.0 180.0 67.0
+Felix Ahmed Aboagye Football 20.0 176.0 70.0
+Firmin Abissi Boxing 28.0 159.0 54.0
+Firmin Abissi Boxing 32.0 159.0 54.0
+Firouz Abdul Mohammadian Water Polo 34.0 178.0 74.0
+Fletcher Abram, Jr. Handball 21.0 193.0 87.0
+Forough Abbasi Alpine Skiing 20.0 164.0 58.0
+Franz Abb Gymnastics nan nan nan
+Fritz Aanes Wrestling 22.0 187.0 89.0
+Fritz Aanes Wrestling 26.0 187.0 89.0
+Gaber Mooti Abou Zeid Volleyball 22.0 187.0 82.0
+Gaber Mooti Abou Zeid Volleyball 30.0 187.0 82.0
+Galal El-Din Abdel Meguid Abou El-Kheir Water Polo 24.0 nan nan
+Gamal Ahmed Abdulla Hockey 28.0 nan nan
+Gamal Amin Abdel Ghani Hockey 29.0 nan nan
+Gana Abba Kimet Athletics 26.0 nan nan
+Gary Abraham Swimming 17.0 175.0 64.0
+Gary Abraham Swimming 17.0 175.0 64.0
+Gary Abraham Swimming 21.0 175.0 64.0
+Gary Abraham Swimming 21.0 175.0 64.0
+Gary Abraham Swimming 21.0 175.0 64.0
+Geoffrey Grant Abbott Hockey 23.0 179.0 80.0
+George "Ioannis" Abbot Football nan nan nan
+George Gordon Abel Ice Hockey 35.0 nan nan
+Georgi Abadzhiev Cycling nan nan nan
+Georgi Abadzhiev Cycling nan nan nan
+Georgia Abatzidou Athletics 35.0 155.0 43.0
+Georgios Abaris Football 22.0 190.0 77.0
+Gezahgne Abera Athletics 22.0 166.0 58.0
+Ghulam Abbas Athletics 24.0 181.0 74.0
+Giordano Giulio Abbondati Figure Skating 15.0 175.0 64.0
+Giordano Giulio Abbondati Figure Skating 19.0 175.0 64.0
+Giorgos Abalof Fencing 22.0 178.0 70.0
+Giovanni Abagnale Rowing 21.0 198.0 90.0
+Giuseppe Abbagnale Rowing 20.0 187.0 97.0
+Giuseppe Abbagnale Rowing 25.0 187.0 97.0
+Giuseppe Abbagnale Rowing 29.0 187.0 97.0
+Giuseppe Abbagnale Rowing 33.0 187.0 97.0
+Glen Abrahams Martnez Athletics 22.0 179.0 72.0
+Glen Abrahams Martnez Athletics 22.0 179.0 72.0
+Gnther Abel Nordic Combined 19.0 183.0 80.0
+Gnther Abel Nordic Combined 23.0 183.0 80.0
+Gunnar Nielsen Aaby Football 24.0 nan nan
+Guy A. Abrahams Athletics 23.0 173.0 65.0
+Guy A. Abrahams Athletics 23.0 173.0 65.0
+Hadi Abdul Jabbar Weightlifting 30.0 180.0 117.5
+Hadi Abdul Jabbar Weightlifting 34.0 180.0 117.5
+Haidar Abdul-Amir Hassan Football 21.0 185.0 80.0
+Haidar Abdul-Razzaq Hassan Football 22.0 175.0 75.0
+Haithem Abid Football 22.0 179.0 72.0
+Hakon Aasns Shooting 41.0 nan nan
+Hamza Abdo Swimming 17.0 nan nan
+Hans Aasns Shooting 33.0 194.0 93.0
+Hans Aasns Shooting 45.0 194.0 93.0
+Hans Aasns Shooting 49.0 194.0 93.0
+Hans Aasns Shooting 53.0 194.0 93.0
+Hans Aasns Shooting 57.0 194.0 93.0
+Harold Maurice Abrahams Athletics 20.0 183.0 75.0
+Harold Maurice Abrahams Athletics 20.0 183.0 75.0
+Harold Maurice Abrahams Athletics 20.0 183.0 75.0
+Harold Maurice Abrahams Athletics 20.0 183.0 75.0
+Harold Maurice Abrahams Athletics 24.0 183.0 75.0
+Harold Maurice Abrahams Athletics 24.0 183.0 75.0
+Harold Maurice Abrahams Athletics 24.0 183.0 75.0
+Hassane Abdou Athletics 23.0 185.0 67.0
+Haysam Farouk Abouelw Football 21.0 nan nan
+Hazim Abdul Ridha Wrestling nan 160.0 52.0
+Hctor Abaunza Fencing 30.0 169.0 75.0
+Hctor Abaunza Fencing 30.0 169.0 75.0
+Hctor Abaunza Fencing 30.0 169.0 75.0
+Heba Abdel Gawad Synchronized Swimming 18.0 154.0 48.0
+Heba Abdel Gawad Synchronized Swimming 22.0 154.0 48.0
+Hosam Abdallah Handball 25.0 nan nan
+Hosam Abdallah Handball 29.0 nan nan
+Hosni Mohamed Abbas Weightlifting 28.0 nan 60.0
+Hosni Mohamed Abbas Weightlifting 32.0 nan 60.0
+Hossam Abdalla Volleyball 28.0 203.0 97.0
+Hugo Ral Aberastegui Rowing 27.0 186.0 84.0
+Hugo Ral Aberastegui Rowing 30.0 186.0 84.0
+Hugo Ral Aberastegui Rowing 34.0 186.0 84.0
+Hussam Abdul Rahman Shooting 30.0 175.0 80.0
+Hwad Ibrahim Abdel Hamid Lumomba Boxing nan 162.0 57.0
+Iason Abramashvili Alpine Skiing 17.0 176.0 82.0
+Iason Abramashvili Alpine Skiing 17.0 176.0 82.0
+Iason Abramashvili Alpine Skiing 21.0 176.0 82.0
+Iason Abramashvili Alpine Skiing 21.0 176.0 82.0
+Iason Abramashvili Alpine Skiing 25.0 176.0 82.0
+Iason Abramashvili Alpine Skiing 25.0 176.0 82.0
+Ibrahim Abdel Hamid Wrestling nan nan nan
+Ibrahim Abdel Rahman Water Polo nan nan nan
+Ibrahim Abdrabbou Boxing 27.0 nan nan
+Ibrahim Ahmed Abdel Rehim Fencing 21.0 190.0 83.0
+Ibrahim Mohamedin Aboubaker Athletics 21.0 190.0 65.0
+Ibrahim Mohamedin Aboubaker Athletics 25.0 190.0 65.0
+Ibrahim Ramadan Ibrahim Abdelbaki Weightlifting 24.0 173.0 77.0
+Ibrahim Ramadan Ibrahim Abdelbaki Weightlifting 28.0 173.0 77.0
+Ibrahim Saad Abdel Galil Athletics nan 176.0 73.0
+Ibrahim Saad Abdel Galil Athletics nan 176.0 73.0
+Ignazio Abate Football 21.0 180.0 73.0
+Ihab Abdelrahman El-Sayed Abdelrahman Athletics 23.0 194.0 96.0
+Ilyas Abbadi Boxing 19.0 175.0 75.0
+Ilyas Abbadi Boxing 23.0 175.0 75.0
+Ilze bola Alpine Skiing 19.0 169.0 60.0
+Inga Eduardovna Abitova Athletics 26.0 164.0 58.0
+Inna Vladimirovna Abramova Swimming 21.0 172.0 63.0
+Inna Vladimirovna Abramova Swimming 21.0 172.0 63.0
+Inni Aboubacar Athletics nan nan nan
+Irene Abel Gymnastics 19.0 160.0 48.0
+Irene Abel Gymnastics 19.0 160.0 48.0
+Irene Abel Gymnastics 19.0 160.0 48.0
+Irene Abel Gymnastics 19.0 160.0 48.0
+Irene Abel Gymnastics 19.0 160.0 48.0
+Irene Abel Gymnastics 19.0 160.0 48.0
+Isak Abrahamsen Gymnastics 21.0 nan nan
+Isao Ko Abe Athletics 24.0 177.0 75.0
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abdallah Gymnastics nan nan nan
+Ismail Abilov (-Nizamolu) Wrestling 25.0 172.0 82.0
+Ismail Abilov (-Nizamolu) Wrestling 29.0 172.0 82.0
+Ivan Nikolov Abadzhiev Weightlifting 24.0 164.0 71.0
+Ivan Nikolov Abadzhiev Weightlifting 28.0 164.0 71.0
+Jaiye Abidoye Athletics 30.0 nan nan
+Jaiye Abidoye Athletics 30.0 nan nan
+Jamal Abdi Hassan Abdullah Athletics 19.0 177.0 65.0
+Jamal Abdi Hassan Abdullah Athletics 23.0 177.0 65.0
+Jamale (Djamel-) Aarrass (Ahrass-) Athletics 30.0 187.0 76.0
+Jan-Erik Aarberg Sailing 43.0 170.0 77.0
+Jan-Erik Aarberg Sailing 47.0 170.0 77.0
+Jean-Pierre Abossolo-Ze Athletics 27.0 nan nan
+Jean-Pierre Abossolo-Ze Athletics 27.0 nan nan
+Jefri Kiko Bolkiah Abdul Hakeem Shooting 23.0 172.0 90.0
+Jefri Kiko Bolkiah Abdul Hakeem Shooting 27.0 172.0 90.0
+Jennifer Abel Diving 16.0 160.0 62.0
+Jennifer Abel Diving 20.0 160.0 62.0
+Jennifer Abel Diving 20.0 160.0 62.0
+Jennifer Abel Diving 24.0 160.0 62.0
+Jennifer Abel Diving 24.0 160.0 62.0
+Jeremy Abbott Canoeing 19.0 179.0 71.0
+Jeremy Abbott Figure Skating 24.0 175.0 70.0
+Jeremy Abbott Figure Skating 28.0 175.0 70.0
+Jeremy Abbott Figure Skating 28.0 175.0 70.0
+Jernej Abrami Canoeing 31.0 175.0 70.0
+Jess Iory Aball Martnez Diving 26.0 167.0 65.0
+Joanne Abbott Sailing 41.0 160.0 57.0
+Johan Aantjes Water Polo 26.0 nan nan
+John Aalberg Cross Country Skiing 31.0 183.0 72.0
+John Aalberg Cross Country Skiing 31.0 183.0 72.0
+John Aalberg Cross Country Skiing 31.0 183.0 72.0
+John Aalberg Cross Country Skiing 31.0 183.0 72.0
+John Aalberg Cross Country Skiing 33.0 183.0 72.0
+John Aalberg Cross Country Skiing 33.0 183.0 72.0
+John Aalberg Cross Country Skiing 33.0 183.0 72.0
+John Aalberg Cross Country Skiing 33.0 183.0 72.0
+John Charles Abrams Hockey 22.0 183.0 nan
+John Charles Abrams Hockey 25.0 183.0 nan
+Jol Marc Abati Handball 34.0 190.0 85.0
+Jol Marc Abati Handball 38.0 190.0 85.0
+Jorma Ilmari Aalto Cross Country Skiing 22.0 182.0 76.5
+Jos Javier Abella Fanjul Football 22.0 176.0 66.0
+Jos Luis Abajo Gmez Fencing 30.0 194.0 87.0
+Jos Manuel Abascal Gmez Athletics 22.0 182.0 67.0
+Jos Manuel Abascal Gmez Athletics 26.0 182.0 67.0
+Jos Mara Abarca Plotas Water Polo 22.0 186.0 83.0
+Jouan Patrice Abanda Etong Football 22.0 185.0 82.0
+Juan Antonio Aball Delgado Canoeing 27.0 172.0 82.0
+Juan Antonio Aball Delgado Canoeing 27.0 172.0 82.0
+Juan Luis Abelln Pallahi Water Polo 19.0 nan nan
+Juhamatti Tapio Aaltonen Ice Hockey 28.0 184.0 85.0
+Julianne "Anne" Abernathy Luge 34.0 165.0 75.0
+Julianne "Anne" Abernathy Luge 38.0 165.0 75.0
+Julianne "Anne" Abernathy Luge 40.0 165.0 75.0
+Julianne "Anne" Abernathy Luge 44.0 165.0 75.0
+Julianne "Anne" Abernathy Luge 48.0 165.0 75.0
+Julius Shareef Abdur-Rahim Basketball 23.0 202.0 104.0
+Justin Abdou Wrestling 29.0 175.0 85.0
+Jyri Tapani Aalto Badminton 31.0 172.0 70.0
+Kamal Abdel Rehim Rowing 26.0 190.0 95.0
+Kamel Aboud Boxing 22.0 178.0 67.0
+Karim Abdel Mohsen Water Polo 25.0 188.0 92.0
+Karin Abma Rowing 24.0 174.0 62.0
+Karl Gran Abrahamsson Fencing 28.0 180.0 72.0
+Karl Gran Abrahamsson Fencing 28.0 180.0 72.0
+Karl Gran Abrahamsson Fencing 28.0 180.0 72.0
+Karl Gran Abrahamsson Fencing 33.0 180.0 72.0
+Karl Gran Abrahamsson Fencing 33.0 180.0 72.0
+Karl Gustaf Emanuel Abrahamsson Ice Hockey 31.0 nan nan
+Karl Jan Aas Gymnastics 20.0 nan nan
+Karl Konrad berg Wrestling 22.0 nan nan
+Kathryn "Katie" Abbott Sailing 21.0 164.0 63.0
+Katja Abel Gymnastics 25.0 165.0 55.0
+Katja Abel Gymnastics 25.0 165.0 55.0
+Katja Abel Gymnastics 25.0 165.0 55.0
+Katja Abel Gymnastics 25.0 165.0 55.0
+Katja Abel Gymnastics 25.0 165.0 55.0
+Kazumi Abe Bobsleigh 24.0 178.0 67.0
+Kazumi Abe Bobsleigh 24.0 178.0 67.0
+Kazumi Abe Bobsleigh 28.0 178.0 67.0
+Kazumi Abe Bobsleigh 28.0 178.0 67.0
+Kazuo Abe Wrestling 25.0 166.0 69.0
+Khadija Abbouda Archery 40.0 165.0 57.0
+Khaled Abdel Rahman Volleyball 27.0 188.0 79.0
+Kinya Abe Fencing 23.0 168.0 68.0
+Kiyoshi Abe Wrestling 25.0 167.0 62.0
+Kjetil Andr Aamodt Alpine Skiing 20.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 20.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 20.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 20.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 22.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 22.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 22.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 22.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 22.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 26.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 26.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 26.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 26.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 30.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 30.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 30.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 30.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 30.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 34.0 176.0 85.0
+Kjetil Andr Aamodt Alpine Skiing 34.0 176.0 85.0
+Knut Leo Abrahamsen Nordic Combined 25.0 nan nan
+Koutoua Francis Abia Canoeing 26.0 180.0 80.0
+Koutoua Francis Abia Canoeing 30.0 180.0 80.0
+Koutoua Francis Abia Canoeing 42.0 180.0 80.0
+Koutoua Francis Abia Canoeing 42.0 180.0 80.0
+Kurt Christer Abrahamsson (-Abris) Ice Hockey 24.0 187.0 77.0
+Lahcen Abrami Football 22.0 nan nan
+Lala Abdul Rashid Hockey 38.0 169.0 91.0
+Lars Thorlaksn Aas Fencing 33.0 nan nan
+Lars Thorlaksn Aas Fencing 33.0 nan nan
+Lars Thorlaksn Aas Fencing 33.0 nan nan
+Lawal Kolawole "Kola" Abdulai Athletics 21.0 172.0 66.0
+Lawal Kolawole "Kola" Abdulai Athletics 21.0 172.0 66.0
+Lawal Kolawole "Kola" Abdulai Athletics 25.0 172.0 66.0
+Lawal Kolawole "Kola" Abdulai Athletics 25.0 172.0 66.0
+Laye Abdullayeva Athletics 21.0 170.0 47.0
+Leila Abdelmoez Synchronized Swimming 19.0 160.0 46.0
+Leslie Ablett Water Polo 24.0 nan nan
+Leslie Ablett Water Polo 32.0 nan nan
+Levan Abramishvili Alpine Skiing 23.0 181.0 84.0
+Levan Abramishvili Alpine Skiing 27.0 181.0 84.0
+Lois Abbingh Handball 23.0 178.0 72.0
+Louis Grenville "Lou" Abell Rowing 15.0 nan nan
+Louis Grenville "Lou" Abell Rowing 19.0 nan nan
+Luc Abalo Handball 23.0 182.0 86.0
+Luc Abalo Handball 27.0 182.0 86.0
+Luc Abalo Handball 31.0 182.0 86.0
+M'Bairo Abakar Judo 31.0 nan nan
+Magdi Abdelghani Sayed Ahmed Football 25.0 nan nan
+Magdy Abou El-Magd Handball 27.0 188.0 85.0
+Magdy Ahmed Abdullah Hockey 25.0 nan nan
+Maged Abdallah Fencing 22.0 nan nan
+Maha Abdalsalam Gouda Diving 18.0 172.0 61.0
+Maher Abbas Athletics 22.0 178.0 78.0
+Maher Abbas Athletics 22.0 178.0 78.0
+Mahmod Abdelaly Shooting 41.0 nan nan
+Mahmoud Abbas Cycling 22.0 165.0 65.0
+Mahmoud Abd El-Kader Volleyball 23.0 195.0 94.0
+Mahmoud Abdel Aziz Volleyball 25.0 174.0 70.0
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdel-Aal Gymnastics 19.0 nan nan
+Mahmoud Abdelaal Boxing 24.0 176.0 60.0
+Mahmoud Abou Elelaa Volleyball 30.0 181.0 76.0
+Mahmoud Ahmed Abdin Fencing 21.0 nan nan
+Mahmoud Ahmed Abdin Fencing 21.0 nan nan
+Mahmoud Ahmed Abdin Fencing 29.0 nan nan
+Mahmoud Ahmed Abdin Fencing 29.0 nan nan
+Mahmoud Ahmed Abdin Fencing 29.0 nan nan
+Mahmoud Ahmed Abdin Fencing 29.0 nan nan
+Mahmoud Ahmed Abdin Fencing 41.0 nan nan
+Mahmoud Atter Abdel Fattah Athletics nan nan nan
+Maizurah Abdul Rahim Athletics 17.0 147.0 50.0
+Majed Ahmed Abdul Mohamed Football 26.0 172.0 70.0
+Majken berg Athletics 30.0 170.0 60.0
+Mamdouh Abdelrehim Volleyball 26.0 207.0 90.0
+Mamdouh Taha Al-Husseini Abouebaid Handball 28.0 183.0 85.0
+Mara Abel Diguez Athletics 25.0 163.0 46.0
+Mara Abel Diguez Athletics 29.0 163.0 46.0
+Mara Katherine Abbott Cycling 30.0 163.0 52.0
+Mara Laura Abalo Rowing 30.0 182.0 73.0
+Margaret Ives Abbott (-Dunne) Golf 23.0 nan nan
+Mariola Teresa Abrahamczyk (-Fronckowiak) Rowing 21.0 180.0 70.0
+Mariya Vasilyevna Abakumova (-Tarabina) Athletics 22.0 179.0 80.0
+Mariya Vasilyevna Abakumova (-Tarabina) Athletics 26.0 179.0 80.0
+Marwan Suhail Aboud Wrestling nan nan nan
+Mary Perkins Ives Abbott (Perkins-) Golf 42.0 nan nan
+Masashi Abe Nordic Combined 22.0 175.0 64.0
+Masashi Abe Nordic Combined 22.0 175.0 64.0
+Masashi Abe Nordic Combined 26.0 175.0 64.0
+Masashi Abe Nordic Combined 28.0 175.0 64.0
+Masashi Abe Nordic Combined 28.0 175.0 64.0
+Masoud Abdul Khamis Al-Rahman Athletics 17.0 176.0 68.0
+Matt Abbott Sailing 34.0 185.0 91.0
+Matthew "Matt" Abood Swimming 30.0 197.0 92.0
+Matthew "Matt" Abood Swimming 30.0 197.0 92.0
+Matthew Duncan Abeysinghe Swimming 20.0 180.0 74.0
+Max "Xam" Abegglen Football 22.0 nan nan
+Max "Xam" Abegglen Football 26.0 nan nan
+Meelis Aasme Cross Country Skiing 25.0 182.0 73.0
+Meelis Aasme Cross Country Skiing 25.0 182.0 73.0
+Meelis Aasme Cross Country Skiing 29.0 182.0 73.0
+Meelis Aasme Cross Country Skiing 29.0 182.0 73.0
+Meelis Aasme Cross Country Skiing 29.0 182.0 73.0
+Mehdi Fahim Abdul Al-Sada Athletics 24.0 184.0 70.0
+Melita Isidora Abraham Schssler Rowing 19.0 170.0 62.0
+Michael Brent Abernathy Baseball 22.0 182.0 84.0
+Mika Lauri Aarnikka Sailing 24.0 187.0 76.0
+Mika Lauri Aarnikka Sailing 28.0 187.0 76.0
+Mikhail Abadzhiev Weightlifting 24.0 172.0 75.0
+Minna Maarit Aalto Sailing 30.0 159.0 55.5
+Minna Maarit Aalto Sailing 34.0 159.0 55.5
+Mitsuhiro Abiko Athletics 19.0 169.0 62.0
+Mohamed Abakkar Boxing nan 156.0 48.0
+Mohamed Abdel Ellah Shooting 32.0 168.0 68.0
+Mohamed Abdel Fatah Football nan 170.0 69.0
+Mohamed Abdel Fattah Cycling 23.0 174.0 69.0
+Mohamed Abdel Hafiz Water Polo nan nan nan
+Mohamed Abdel Hamed Volleyball 24.0 193.0 82.0
+Mohamed Abdel Khaled Handball 24.0 183.0 76.0
+Mohamed Abdel Mohamed Handball 24.0 nan nan
+Mohamed Abdel Sami Rowing nan nan nan
+Mohamed Abdel-El Wrestling nan nan nan
+Mohamed Abdellah Shooting 36.0 170.0 70.0
+Mohamed Abdellah Shooting 40.0 170.0 70.0
+Mohamed Abdou El-Souad Modern Pentathlon 19.0 180.0 76.0
+Mohamed Abdou El-Souad Modern Pentathlon 19.0 180.0 76.0
+Mohamed Abdou El-Souad Modern Pentathlon 23.0 180.0 76.0
+Mohamed Abdou El-Souad Modern Pentathlon 23.0 180.0 76.0
+Mohamed Abdul Hadj Hockey 25.0 nan nan
+Mohamed Abdul Hamid Swimming 19.0 175.0 55.0
+Mohamed Abdul Razzak Athletics nan 177.0 68.0
+Mohamed Abdul Wahab Al-Salah Swimming 21.0 nan nan
+Mohamed Abdul Wahab Al-Salah Swimming 21.0 nan nan
+Mohamed Abdullah Athletics nan 180.0 76.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdullah Swimming nan 176.0 66.0
+Mohamed Abdultwab Ibrahim Abd El-Baki Weightlifting 21.0 162.0 69.0
+Mohamed Abdultwab Ibrahim Abd El-Baki Weightlifting 25.0 162.0 69.0
+Mohamed Abed Abdul Jawad Football 22.0 169.0 65.0
+Mohamed Aberhoune Football 23.0 187.0 75.0
+Mohamed Aboker Athletics 26.0 175.0 61.0
+Mohamed Aboker Athletics 26.0 175.0 61.0
+Mohamed Ali Abdel Kerim Weightlifting 24.0 nan 81.0
+Mohamed Ali Abdel Kerim Weightlifting 32.0 nan 81.0
+Mohamed Ali Abdelaal Judo 26.0 175.0 81.0
+Mohamed Fakhry Rifaat Abbas Diving 19.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 21.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 33.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 33.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 37.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 37.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 37.0 nan nan
+Mohamed Fathallah Abdel Rahman Fencing 37.0 nan nan
+Mohamed Ghulom Abdul Rahman Shooting nan 175.0 85.0
+Mohamed Ibrahim Abd El-Fatah Mohamed Wrestling 22.0 185.0 98.0
+Mohamed Ibrahim Abd El-Fatah Mohamed Wrestling 26.0 185.0 98.0
+Mohamed Ibrahim Abd El-Fatah Mohamed Wrestling 34.0 185.0 98.0
+Mohamed Ibrahim Abd El-Salam Handball 22.0 192.0 83.0
+Mohamed Ibrahim Abd El-Salam Handball 26.0 192.0 83.0
+Mohamed Jamshid Abadi Boxing nan nan nan
+Mohamed Mohamed Mohamed Aboutrika Football 33.0 182.0 77.0
+Mohamed Moustafa Abou Elea Wrestling 20.0 168.0 54.0
+Mohamed Said Abdel Wehab Boxing 22.0 157.0 48.0
+Mohamed Samy Abdullah Athletics nan 165.0 65.0
+Mohamed Sayed Abdulla Hockey 18.0 nan nan
+Mohamed Youssef Abdel Razik Football 21.0 nan nan
+Mohammed Abbas Sabih Swimming 26.0 170.0 70.0
+Mohammed Tawfiq Abou Habaga Football 27.0 nan nan
+Moira Abernethy (-Ford) Swimming 17.0 nan nan
+Moira Abernethy (-Ford) Swimming 17.0 nan nan
+Mojtaba Abedini Shormasti Fencing 27.0 180.0 83.0
+Mojtaba Abedini Shormasti Fencing 31.0 180.0 83.0
+Mona Ahmad Abdulaziz Hassanein Fencing 26.0 166.0 61.0
+Monica Cecilia Abbott Softball 23.0 191.0 88.0
+Moonika Aava Athletics 24.0 168.0 65.0
+Moonika Aava Athletics 28.0 168.0 65.0
+Morten Gjerdrum Aasen Equestrianism 34.0 185.0 75.0
+Mouni Abderrahim Volleyball 22.0 173.0 60.0
+Mouni Abderrahim Volleyball 26.0 173.0 60.0
+Moustafa Abdel Naser Athletics 21.0 176.0 74.0
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Abdelal Gymnastics nan nan nan
+Moustafa Ahmed Ismail Abdou Ali Arfah Football 31.0 nan nan
+Moustafa Ali Abdel Halim Weightlifting 32.0 152.0 52.0
+Moustafa Mounib Abdel Kader Athletics nan 176.0 67.0
+Muhammad Abbas Alpine Skiing 23.0 168.0 55.0
+Muhammad Abdul Rashid Hockey 23.0 181.0 72.0
+Muhammad Abdul Razzaq Hockey nan nan nan
+Mukhamadmurod Abdurakhmonov Judo 29.0 192.0 117.0
+Mukhammad Kadyr Abdullayev Boxing 22.0 169.0 63.0
+Mukhammad Kadyr Abdullayev Boxing 26.0 169.0 63.0
+Muminzhon Abdullayev Wrestling 22.0 190.0 130.0
+Muminzhon Abdullayev Wrestling 26.0 190.0 130.0
+Nabil Abdul Tahlak Shooting 39.0 nan nan
+Nader Sufyan Abbas Weightlifting 28.0 173.0 77.0
+Najim Abdulrazak Al-Enazy Athletics 18.0 150.0 60.0
+Namiq Yadulla Abdullayev Wrestling 25.0 167.0 55.0
+Namiq Yadulla Abdullayev Wrestling 29.0 167.0 55.0
+Namiq Yadulla Abdullayev Wrestling 33.0 167.0 55.0
+Naoki Abe Athletics 23.0 173.0 68.0
+Naoki Abe Athletics 23.0 173.0 68.0
+Narek Abgaryan Boxing 24.0 166.0 52.0
+Nasrollah Abdollahi Football 24.0 183.0 75.0
+Nelli Mikhaylovna Abramova Volleyball 24.0 171.0 60.0
+Nia Nicole Abdallah Taekwondo 20.0 175.0 56.0
+Nikolay Kuzmich Abramov Athletics 30.0 164.0 59.0
+Nils Egil Aaness Speed Skating 24.0 nan nan
+Nils Egil Aaness Speed Skating 24.0 nan nan
+Nils Egil Aaness Speed Skating 27.0 nan nan
+Nils Georg berg Athletics 19.0 181.0 78.0
+Nils Georg berg Athletics 19.0 181.0 78.0
+Noha Abd Rabo Taekwondo 21.0 nan nan
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nstor Abad Sanjun Gymnastics 23.0 167.0 64.0
+Nunu Dzhansuhivna Abashydze (-Myslaieva) Athletics 25.0 168.0 105.0
+Olav Augunson Aarnes Athletics 23.0 nan nan
+Oleksandr Volodymyrovych Abramenko Freestyle Skiing 17.0 180.0 82.0
+Oleksandr Volodymyrovych Abramenko Freestyle Skiing 21.0 180.0 82.0
+Oleksandr Volodymyrovych Abramenko Freestyle Skiing 25.0 180.0 82.0
+Olof Viktor "Olle" berg Athletics 27.0 181.0 78.0
+Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi Football 20.0 168.0 62.0
+Omari Abdallah Athletics 21.0 168.0 57.0
+Omari Abdallah Athletics 29.0 168.0 57.0
+Osama Abdullah Football 21.0 nan nan
+Osamu Abe Rowing 22.0 nan nan
+Osman Abdel Hafeez Fencing 31.0 nan nan
+Osman Abdel Hafeez Fencing 31.0 nan nan
+Osman Abdel Hafeez Fencing 31.0 nan nan
+Osman Abdel Hafeez Fencing 35.0 nan nan
+Osman Abdel Hafeez Fencing 35.0 nan nan
+Oszkr Abay-Nemes Swimming 22.0 nan nan
+Oszkr Abay-Nemes Swimming 22.0 nan nan
+Ould Lamine Abdallah Athletics nan nan nan
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 28.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Paavo Johannes Aaltonen Gymnastics 32.0 175.0 64.0
+Pablo Abin Vicen Badminton 23.0 177.0 68.0
+Pablo Abin Vicen Badminton 27.0 177.0 68.0
+Pablo Abin Vicen Badminton 31.0 177.0 68.0
+Pablo Martn Abal Swimming 23.0 178.0 76.0
+Pablo Martn Abal Swimming 23.0 178.0 76.0
+Pasqualino Abeti Athletics 24.0 173.0 66.0
+Patimat Abakarova Taekwondo 21.0 165.0 49.0
+Patmawati Abdul Wahid Weightlifting 32.0 158.0 58.0
+Patrick Abada Athletics 22.0 189.0 80.0
+Pavel Sergeyevich Abramov Volleyball 25.0 198.0 89.0
+Pawe Abratkiewicz Speed Skating 21.0 183.0 84.0
+Pawe Abratkiewicz Speed Skating 21.0 183.0 84.0
+Pawe Abratkiewicz Speed Skating 27.0 183.0 84.0
+Pepijn Aardewijn Rowing 26.0 189.0 72.0
+Pepijn Aardewijn Rowing 30.0 189.0 72.0
+Per Knut Aaland Cross Country Skiing 31.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 31.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 31.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 31.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 33.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 33.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 33.0 188.0 75.0
+Per Knut Aaland Cross Country Skiing 33.0 188.0 75.0
+Pirjo Hannele Aalto (Mattila-) Biathlon 32.0 171.0 65.0
+Piroska Abos Gvorgyzakab Cross Country Skiing 25.0 nan nan
+Piroska Abos Gvorgyzakab Cross Country Skiing 25.0 nan nan
+Piroska Abos Gvorgyzakab Cross Country Skiing 25.0 nan nan
+Pter Abay Fencing 30.0 181.0 79.0
+Qazi Abdul Waheed Hockey 30.0 nan nan
+Rabah Aboud Athletics 31.0 180.0 64.0
+Ragab Abdelhay Saad Abdelrazek Abdallah Weightlifting 21.0 170.0 94.0
+Ragab Abdelhay Saad Abdelrazek Abdallah Weightlifting 25.0 170.0 94.0
+Ragnhild Margrethe Aamodt Handball 27.0 163.0 nan
+Ragy Abdel Hady Water Polo 30.0 186.0 100.0
+Raida Abdallah Bader Athletics 19.0 158.0 49.0
+Ral Abatte Shooting 38.0 nan nan
+Ral Daniel Abella Biathlon 26.0 nan nan
+Ral Daniel Abella Biathlon 26.0 nan nan
+Ral Daniel Abella Biathlon 26.0 nan nan
+Ramn Neptuno Abella Caside Water Polo 26.0 nan nan
+Raouf Abdelraouf Gymnastics 22.0 167.0 63.0
+Raouf Abdelraouf Gymnastics 22.0 167.0 63.0
+Raouf Abdelraouf Gymnastics 22.0 167.0 63.0
+Raouf Abdelraouf Gymnastics 22.0 167.0 63.0
+Raouf Abdelraouf Gymnastics 22.0 167.0 63.0
+Raouf Abdou Modern Pentathlon 22.0 165.0 60.0
+Rasul Abduraim Taekwondo 19.0 183.0 74.0
+Rasul Abduraim Taekwondo 23.0 183.0 74.0
+Rauf Abdul Seoud Diving 21.0 nan nan
+Rauf Abdul Seoud Diving 33.0 nan nan
+Rda Abdenouz Athletics 19.0 170.0 63.0
+Rda Abdenouz Athletics 23.0 170.0 63.0
+Reem Wa'il Abdalazem Abdalazem El-Bossaty Synchronized Swimming 15.0 167.0 60.0
+Reem Wa'il Abdalazem Abdalazem El-Bossaty Synchronized Swimming 15.0 167.0 60.0
+Reem Wa'il Abdalazem Abdalazem El-Bossaty Synchronized Swimming 19.0 167.0 60.0
+Reema Abdo Swimming 21.0 173.0 59.0
+Reema Abdo Swimming 21.0 173.0 59.0
+Reema Abdo Swimming 21.0 173.0 59.0
+Ren Abadie Cycling 21.0 nan nan
+Ren Abadie Cycling 21.0 nan nan
+Reskalla Mohamed Abdel Rehim Boxing 22.0 165.0 48.0
+Richard Neal Abrahamson Handball 24.0 190.0 88.0
+Richard Neal Abrahamson Handball 28.0 190.0 88.0
+Roald Edgar Aas Speed Skating 23.0 nan nan
+Roald Edgar Aas Speed Skating 27.0 nan nan
+Roald Edgar Aas Speed Skating 27.0 nan nan
+Roald Edgar Aas Speed Skating 31.0 nan nan
+Roald Edgar Aas Speed Skating 31.0 nan nan
+Roald Edgar Aas Speed Skating 31.0 nan nan
+Rodrigo Abasolo Rowing 21.0 nan nan
+Roger Abel Shooting 24.0 nan nan
+Roger Abel Shooting 36.0 nan nan
+Roger Abel Shooting 36.0 nan nan
+Roger Abel Shooting 48.0 nan nan
+Roger Abel Shooting 52.0 nan nan
+Roger Abel Shooting 52.0 nan nan
+Rolf Aas Football 28.0 nan nan
+Roosevelt M. Abdulgafur Swimming 24.0 181.0 73.0
+Roosevelt M. Abdulgafur Swimming 24.0 181.0 73.0
+Roosevelt M. Abdulgafur Swimming 24.0 181.0 73.0
+Roosevelt M. Abdulgafur Swimming 24.0 181.0 73.0
+Roosevelt M. Abdulgafur Swimming 24.0 181.0 73.0
+Rost'om Omeris dze Abashidze Wrestling 29.0 188.0 97.0
+Rukayatu "Ruky" Abdulai Athletics 22.0 180.0 59.0
+Ruslan Abbasov Athletics 22.0 181.0 74.0
+Ruth Abeles Gymnastics 18.0 153.0 48.0
+Ruth Abeles Gymnastics 18.0 153.0 48.0
+Ruth Abeles Gymnastics 18.0 153.0 48.0
+Ruth Abeles Gymnastics 18.0 153.0 48.0
+Ruth Abeles Gymnastics 18.0 153.0 48.0
+Ruwani Abeymanne Shooting 30.0 160.0 53.0
+Ruwani Abeymanne Shooting 30.0 160.0 53.0
+S. Abdul Hamid Athletics nan nan nan
+S. Abdul Hamid Athletics nan nan nan
+Sadoon Mohamed Aboub Boxing 21.0 170.0 48.0
+Saeid Morad Abdevali Wrestling 22.0 170.0 80.0
+Saeid Morad Abdevali Wrestling 26.0 170.0 80.0
+Sagat Abikeyeva Judo 27.0 160.0 78.0
+Salim Abanoz Judo 26.0 nan nan
+Salim Abes Handball 25.0 nan nan
+Salwan Jasim Abbood Abbood Weightlifting 24.0 180.0 104.0
+Sameh Abdel Rahman Fencing 16.0 nan nan
+Sameh Abdel Rahman Fencing 21.0 nan nan
+Sameh Abdel Rahman Fencing 21.0 nan nan
+Sameh Abdel Waress Muhammad Handball 24.0 nan nan
+Samir Ahmed Abdul Shakour Football 24.0 180.0 72.0
+Samy Abdel Razek Shooting 28.0 170.0 60.0
+Samy Abdel Razek Shooting 36.0 170.0 60.0
+Samy Abdel Razek Shooting 36.0 170.0 60.0
+Sanad Bushara Abdel-Nadif Football nan nan nan
+Sanshiro "Sonny" Abe Wrestling 26.0 166.0 57.0
+Sara Abdel Gawad Synchronized Swimming 18.0 153.0 46.0
+Sara Helena berg Swimming 17.0 190.0 73.0
+Sarah Abitbol Figure Skating 22.0 150.0 43.0
+Sayed Abdel Gadir Boxing 23.0 180.0 56.0
+Sayed Abdel Gadir Boxing 32.0 180.0 56.0
+Sayed Abdelmonem Sayed Hamed Wrestling 23.0 170.0 60.0
+Sayed Fahmy Abaza Football nan nan nan
+Sayed Fahmy Abaza Football nan nan nan
+Sdonoud Janvier Abouta Football 23.0 nan nan
+Sergey Mikhaylovich Abramov Ice Hockey 34.0 180.0 94.0
+Shaimaa Abdel-Latif-Hashad Shooting 23.0 165.0 57.0
+Shaimaa Abdel-Latif-Hashad Shooting 27.0 165.0 57.0
+Shaimaa Abdel-Latif-Hashad Shooting 35.0 165.0 57.0
+Shaimaa Abdul Aziz Table Tennis 19.0 160.0 53.0
+Shaimaa Abdul Aziz Table Tennis 19.0 160.0 53.0
+Shaimaa Abdul Aziz Table Tennis 27.0 160.0 53.0
+Shakeel Abbasi Hockey 20.0 165.0 60.0
+Shakeel Abbasi Hockey 24.0 165.0 60.0
+Shakeel Abbasi Hockey 28.0 165.0 60.0
+Shaza Yahia Nazih Abdulrahman El-Sayed Synchronized Swimming 15.0 170.0 59.0
+Shaza Yahia Nazih Abdulrahman El-Sayed Synchronized Swimming 19.0 170.0 59.0
+Shaza Yahia Nazih Abdulrahman El-Sayed Synchronized Swimming 19.0 170.0 59.0
+Sherzod Abdurahmonov Boxing 22.0 178.0 73.0
+Shigeaki Abe Basketball 24.0 178.0 70.0
+Shigeaki Abe Basketball 28.0 178.0 70.0
+Shinnosuke Abe Baseball 21.0 179.0 91.0
+Shinnosuke Abe Baseball 29.0 179.0 91.0
+Shiny Kurisingal Abraham-Wilson Athletics 19.0 167.0 53.0
+Shiny Kurisingal Abraham-Wilson Athletics 19.0 167.0 53.0
+Shiny Kurisingal Abraham-Wilson Athletics 23.0 167.0 53.0
+Shiny Kurisingal Abraham-Wilson Athletics 23.0 167.0 53.0
+Shiny Kurisingal Abraham-Wilson Athletics 27.0 167.0 53.0
+Shiny Kurisingal Abraham-Wilson Athletics 31.0 167.0 53.0
+Sidney Solomon Abrahams Athletics 21.0 nan nan
+Sidney Solomon Abrahams Athletics 21.0 nan nan
+Sidney Solomon Abrahams Athletics 27.0 nan nan
+Silke Abicht Diving 19.0 156.0 46.0
+Silvano Abba Modern Pentathlon 25.0 nan nan
+Simona Abbate Water Polo 28.0 171.0 64.0
+Soha Abed Elaal Archery 35.0 nan nan
+Sohail Abbas Hockey 25.0 178.0 80.0
+Sohail Abbas Hockey 29.0 178.0 80.0
+Sohail Abbas Hockey 37.0 178.0 80.0
+Sonia Abejn Esteban Rhythmic Gymnastics 19.0 169.0 48.0
+Soulmaz Abbasi Azad Rowing 28.0 173.0 60.0
+Stefan Abadzhiev Football 26.0 175.0 72.0
+Stefan Remco Aartsen Swimming 21.0 194.0 78.0
+Stefan Remco Aartsen Swimming 21.0 194.0 78.0
+Stefan Remco Aartsen Swimming 21.0 194.0 78.0
+Stefan Remco Aartsen Swimming 25.0 194.0 78.0
+Stefan Remco Aartsen Swimming 25.0 194.0 78.0
+Stephen Anthony Abas Wrestling 26.0 165.0 55.0
+Stphan Abrahamian Gonzalez Cycling 22.0 nan nan
+Suleman Abdul Rahman Cycling 29.0 174.0 55.0
+Tadashi Abe Rowing 21.0 190.0 80.0
+Tadashi Abe Rowing 25.0 190.0 80.0
+Tadashi Abe Rowing 29.0 190.0 80.0
+Tadatoshi Abe Hockey 28.0 170.0 60.0
+Tadesse Abraham Athletics 33.0 178.0 61.0
+Taha Abdul Karim Boxing 20.0 156.0 59.0
+Taher Abou Zeid Sayid Amer Football 22.0 nan nan
+Talaat Abada Taekwondo 24.0 172.0 58.0
+Talal Hassoun Abdul Kader Weightlifting nan nan 82.0
+Talal Omar Abdillahi Athletics 21.0 170.0 57.0
+Talal Omar Abdillahi Athletics 25.0 170.0 57.0
+Tamara Abalde Daz Basketball 19.0 185.0 72.0
+Tamer Mohamed Abdel Hamid Football 20.0 nan nan
+Tamila Rashidovna Abasova Cycling 21.0 163.0 60.0
+Tamila Rashidovna Abasova Cycling 21.0 163.0 60.0
+Tarek Abou Al Dahab Cycling 28.0 170.0 64.0
+Tarek Abou Al Dahab Cycling 28.0 170.0 64.0
+Tarek Abou Al Dahab Cycling 28.0 170.0 64.0
+Tarek Abou Al Dahab Cycling 28.0 170.0 64.0
+Tarek Abou Al Dahab Cycling 32.0 170.0 64.0
+Tarek Abou Al Dahab Cycling 32.0 170.0 64.0
+Tesfaye Abera Dibaba Athletics 24.0 192.0 68.0
+Tewfik Abdullah Football 23.0 nan nan
+Thomas Abratis Nordic Combined 26.0 184.0 73.0
+Thomas Abratis Nordic Combined 26.0 184.0 73.0
+Thomas Valentin Aas Sailing 25.0 nan nan
+Thophile Abega Mbida Football 30.0 nan nan
+Thorine Christelle Aboa Mbeza Volleyball 23.0 182.0 78.0
+Timo Antero Aaltonen Athletics 31.0 189.0 130.0
+Tomomi Abiko Athletics 24.0 173.0 53.0
+Tran Abbasova Weightlifting 33.0 159.0 53.0
+Trond Sevg Abrahamsen Ice Hockey 19.0 183.0 87.0
+Trond Sevg Abrahamsen Ice Hockey 23.0 183.0 87.0
+Tsvetelina Abrasheva Figure Skating 16.0 nan nan
+Tural Abbasov Swimming 18.0 182.0 76.0
+Ulf Thommy Abrahamsson Ice Hockey 24.0 185.0 81.0
+Valery Aleksandrovich Abramov Athletics 23.0 173.0 61.0
+Viktor Andreyevich Aboimov Swimming 22.0 190.0 78.0
+Viktor Andreyevich Aboimov Swimming 22.0 190.0 78.0
+Viktor Andreyevich Aboimov Swimming 22.0 190.0 78.0
+Viktor Andreyevich Aboimov Swimming 22.0 190.0 78.0
+Waguih Rauf Aboul Seoud Diving 22.0 nan nan
+Waheed Abdulridha Waheed Karaawi Boxing 33.0 178.0 74.0
+Wakako Abe Cycling 18.0 168.0 60.0
+Walid Abdel Maksoud Handball 29.0 nan nan
+Wan Azlan Abdullah Swimming 21.0 188.0 77.0
+Wan Azlan Abdullah Swimming 21.0 188.0 77.0
+Wan Azlan Abdullah Swimming 21.0 188.0 77.0
+Wan Azlan Abdullah Swimming 25.0 188.0 77.0
+Willemien Aardenburg Hockey 22.0 nan nan
+William "Bill" Abbott Jr. Sailing 42.0 172.0 80.0
+William "Bill" Abbott Jr. Sailing 46.0 172.0 80.0
+Win Valdemar Aaltonen Art Competitions 54.0 nan nan
+Yaritza Abel Rojas Judo 28.0 nan 62.0
+Yasser Abdel Rahman Sakr Wrestling 30.0 180.0 120.0
+Yekaterina Konstantinovna Abramova Speed Skating 23.0 167.0 65.0
+Yekaterina Konstantinovna Abramova Speed Skating 23.0 167.0 65.0
+Yekaterina Konstantinovna Abramova Speed Skating 23.0 167.0 65.0
+Yekaterina Konstantinovna Abramova Speed Skating 27.0 167.0 65.0
+Yelena Vasilyevna Abramchuk (Kopets-) Athletics 28.0 182.0 95.0
+Yevgeny Sergeyevich Abramenko Biathlon 22.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 22.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 22.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 22.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 26.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 26.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 26.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 26.0 181.0 80.0
+Yevgeny Sergeyevich Abramenko Biathlon 26.0 181.0 80.0
+Yhyacinthe Mewoli Abdon Boxing 26.0 176.0 60.0
+Yoshiyuki Abe Cycling 31.0 175.0 67.0
+Youcef Abdi Athletics 30.0 178.0 66.0
+Youcef Abdi Athletics 34.0 178.0 66.0
+Younis Abdallah Rabee Athletics 23.0 169.0 68.0
+Younis Abid Sadkhan Football 18.0 nan nan
+Youssef Kamel Mohamed Abou Ouf Basketball 24.0 nan nan
+Youssef Kamel Mohamed Abou Ouf Basketball 28.0 nan nan
+Youssef Mohamed Abbas Basketball 31.0 nan nan
+Yuki Abe Football 22.0 177.0 75.0
+Yusup Abdusalomov Wrestling 26.0 170.0 84.0
+Yusup Abdusalomov Wrestling 30.0 170.0 84.0
+Yusup Abdusalomov Wrestling 34.0 170.0 84.0
+Zagalav Abdulbekovich Abdulbekov Wrestling 26.0 160.0 62.0
+Zaid Abou Hamed Athletics 30.0 182.0 79.0
+Zakaria Aboub Football 20.0 171.0 65.0
+Zambrose Abdul Rahman Athletics 24.0 173.0 64.0
+Zarinah Abdullah Badminton 21.0 nan nan
+Zarinah Abdullah Badminton 25.0 nan nan
+Zeyad Abdulrazak Al-Khudhur Al-Enazy Athletics 19.0 181.0 66.0
+Zeyad Abdulrazak Al-Khudhur Al-Enazy Athletics 23.0 181.0 66.0
+Zulkifli Abbas Hockey 28.0 170.0 62.0
+lqar Abdulov Wrestling 27.0 175.0 74.0
